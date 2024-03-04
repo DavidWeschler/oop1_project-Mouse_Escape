@@ -1,7 +1,5 @@
 Project - Amazing Escape: Mouse Maze (using SFML)
 
-Written by Ron Avital, ID: 318751419, and David Weschler, ID: 209736578.
-
 In this OOP project, we built the game "Amazing Escape". 
 The game involves a mouse collecting cheese while avoiding cats. 
 In this exercise, we practiced interface design, the usage of complex classes, 
