@@ -79,6 +79,3 @@ To introduce a new level to the game, follow these steps:
 1) Create a new text file for the level, named level0n.txt (replace 'n' with the level number), and save it in the 'resources' folder.
 2) Add a line of code in the CMakeLists.txt file, as previously instructed.
 3) Update the 'playlist.txt' file by adding the new level filename on a new line.
-
-![Screenshot 2024-04-22 114605](https://github.com/DavidWeschler/oop1_project/assets/94866765/79222e14-c460-42a5-84db-c4e1507717f6)
-![Screenshot 2024-04-22 114726](https://github.com/DavidWeschler/oop1_project/assets/94866765/b23496bd-1c25-4d5a-ac75-a3afb997a78b)
